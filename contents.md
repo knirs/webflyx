@@ -1,0 +1,5 @@
+[B[q
+
+/
+quit
+# contents
